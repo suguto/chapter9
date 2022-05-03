@@ -73,6 +73,10 @@ footer{
     width: 100%;
   }
 
+  main{
+    width: 100%;
+  }
+
 
   .blog-box{
     width: 100%;
@@ -88,6 +92,10 @@ footer{
   .box-items:nth-child(3){
     margin-bottom: 0;
     margin-right: auto;
+  }
+
+  footer{
+    width: 100%;
   }
 
 }
